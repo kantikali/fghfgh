@@ -1,3 +1,7 @@
 a=int(input())
 b=int(input())
-print(a+b)
+h=a/b
+d=a%b
+j=a+b
+k=a-b
+print(h,d,j,k)
